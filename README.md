@@ -10,9 +10,6 @@
 > Reference 1
 >> Reference 2
 >>> Reference 3
-
-upper
----
-lower~
-
 ###### Sixth Head
+---
+***
