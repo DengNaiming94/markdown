@@ -11,7 +11,7 @@
 >> Reference 2
 >>> Reference 3
 
-upper*
+upper
 ---
 lower~
 
